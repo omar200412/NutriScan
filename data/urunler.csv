@@ -1,0 +1,265 @@
+kola,T01,T02,K02,E150d,E338,K06,K05
+meyveli gazoz,T01,K01,K02,E330,E211,E102,E133,K05
+kola diet,T01,K02,E150d,E338,E951,E950,E331,K06,E211
+enerji icecegi ekstra,T01,T02,K01,E330,E331,K07,E150d,E202,E211,K08,K09
+soguk cay seftali,T01,T02,K01,E330,E331,K10,E202,E242,K05
+hazir limonata,T01,T02,K11,E330,E414,E445,E104,E202,E211,E300
+toz icecek portakal,T02,E330,E341,E415,E466,E300,E171,E102,E110,K05
+meyveli sut cilekli,H01,T02,K12,E407,E120,K05
+kakaolu sut,H01,T02,B01,E407,E471,E339,K05
+kahve beyazlaticisi,K01,K13,E340,E452,E471,E551,E160a
+krem santi tozu,T02,K01,K13,E471,E472a,E460,E340,K05
+margarin paket,T05,T01,T03,E471,E322,E202,E330,E160a,K05
+cips barbeku,B02,K14,T02,T03,E621,E627,E631,E551,E160c,E262,K05
+cips ketcapli,B03,K14,T02,E621,E262,E330,E951,E160c,K05
+cips peynir sogan,B04,T05,K15,E621,E635,E160b,K05
+misir cerezi,B04,T05,T03,E621,E102,E110,K05
+cubuk kraker baharatli,T04,T05,K01,T03,E500,E450,E223,E621
+balik kraker,T04,T02,T05,E503,E500,E223,E110,K05
+sosis kokteyl,K16,T01,K17,K18,T03,E250,E452,E120,E316,E621
+salam macar,H02,H03,T01,K17,E250,E450,E452,E300,E120,E621
+sucuk isil islem,H02,H03,K16,K18,B05,E250,E301,E450,E621
+jambon,H04,T01,T03,E451,E450,E301,E250,E407
+nugget kaplamali,H05,T01,T04,B06,K17,E450,E500,E621,E341,K19
+schnitzel hazir,H05,T06,T05,E621,E412,E300,E331
+hazir hamburger koftesi,H02,K18,T06,T03,E621,E451,E300,E330,K05
+hazir doner,H06,H07,H08,K18,E621,E450,E451,E331,K20
+et bulyon,T03,E621,E627,E631,K13,K17,T02,E150d,K05
+tavuk bulyon,T03,E621,E627,E631,K14,K17,E100,E330,K05
+hazir corba mercimek,B07,T04,T03,E621,E627,E631,K14,E330,E551
+hazir corba domates,B08,K17,T02,K01,T03,E621,E330,E162,T05
+hazir noodle tavuklu,T04,K14,T03,E500,E501,E452,E319,E621,E631,E627
+hazir noodle korili,T04,K14,E319,T03,E621,E627,E631,T02,B09,E100
+ketcap acili,B10,K01,T07,T03,K12,E211,E202,K05
+mayonez light,T01,T05,K12,H09,E330,E415,E412,E202,E211,E385,E160a
+barbeku sos,T01,T02,B11,T07,K12,E150d,E202,E211,E415,K21
+ranch sos,T01,T05,H08,T02,T07,H10,E1422,E415,E202,E211,E385
+nar eksisi sosu,K01,T01,E330,E150d,B12,E211,K05
+soya sosu,T01,B13,B14,T03,E211,E621,E635
+bisküvi kremali,T04,T02,K14,K22,E503,E500,E450,E322,E223,K05
+bisküvi kakaolu,T04,T02,K13,B01,E150d,E503,E500,E223,T03
+marshmallow,K01,T02,T01,H11,K17,E450,E133,E129,K05
+jelibon ayicik,K01,T02,H11,E330,E903,E102,E110,E129,E133,K05
+yumusak seker serit,T02,K01,T04,E296,E330,E471,E102,E133,E171
+sakiz naneli,K23,K24,E422,E951,E950,E171,E320,E321,K05
+sakiz meyveli,T02,K01,K24,E330,E322,E100,E120,E320,K05
+bonibon,T02,B15,K25,E171,E102,E110,E129,E133,E414,E903
+top cikolata,T02,K13,K15,B01,E322,E476,K05
+surulebilir cikolata,T02,T05,B16,B01,K25,E322,K05
+gofret cilekli,T02,T04,T05,K15,E322,E162,E500,E503,K05
+kruvasan paketli,T04,K26,T02,K27,E471,E472e,E282,E200,E160a,K05
+donut kaplamali,T04,K14,T02,E471,E481,E450,E500,E202,E171,E129
+baton kek meyveli,T04,T02,H10,K01,E422,E471,E475,E450,E500,E202,E282
+islak kek hazir,K28,K29,K01,E420,E422,E202,E476,E500
+tost ekmegi,T04,T01,K27,T02,E282,E200,E481,E300,E170
+hamburger ekmegi,T04,T01,T02,T05,K27,E282,E471,E472e,E300
+lavas ekmek,T04,T01,T03,T02,E412,E422,E500,E450,E202,E282
+hazir pizza,T04,T01,H12,K16,H13,B02,E250,E621,E450,E412,E300
+dondurulmus patates,B03,K14,E450,K30
+soğan halkasi,B17,T04,B06,K17,E412,E461,E100,T03
+dondurma vanilyali,T01,T02,K01,K25,E471,E410,E412,E407,K05
+meyveli buz,T01,T02,B18,E330,E440,E102,E133,K05
+puding hazir,H01,T02,K12,E407,E412,E160a,K05
+profiterol hazir,H01,T02,T04,H10,K26,E202,E471,E322,E500
+kazandibi hazir,H01,T02,B19,K17,E407,K05
+baklava glikozlu,T04,K01,K17,K26,T03,E202
+pasta tabani,T04,T02,H10,K01,E422,E471,E475,E450,E500,E202
+susamli simit,T04,T01,B20,B21,T03,K27
+pogaca paketli,T04,K26,T02,H10,E471,E330,E202,E160a
+acibadem kurabiyesi,T02,B22,H14,E150d
+sekerpare hazir,T04,T02,K26,B23,E500,E202
+tulumba tatlisi,T04,K17,H10,K01,K19
+recel glikozlu,B24,K01,T02,E330,E440
+bal aromali surup,K01,T02,E150d,K31
+fistik ezmesi sekerli,B25,T02,K13,T03
+sürülebilir peynir,H15,T01,H16,E339,E452,E202,H17
+eritme peynir,H15,T01,E331,E339,E452,K25,T03
+bebek mamasi kavanoz,B26,B27,T02,K17,K32
+bebek biskuvisi,T04,T02,K14,K17,E503,E500,E322,K33
+devam sutu,H01,K34,T05,H18,E322,K09
+vitaminli su,T01,T02,K09,E330,E202,E211,K05
+sporcu icecegi,T01,T02,K30,E330,E331,E340,E102,E133,K05
+ton baligi yagli,H19,B28,T03
+misir konservesi,B02,T01,T02,T03
+bezelye konservesi,B29,T01,T02,T03
+tursu karisik,B30,B31,B32,T01,T03,T07,E211,E223,E101
+tursu suyu,T01,K35,E211,E102
+salgam suyu acili,T01,B33,K36,T03,E211,E270
+sirke beyaz,T01,K37,E224
+limon sosu,T01,E330,K38,E102,E104,E211,E202
+nar sosu,K01,T01,E330,E150d,K39,E211
+sivi yag karisim,B28,B34,E900
+kizartma yagi,K14,B35,E319,E900
+kofte harci,T06,T03,B36,E621,B37
+tavuk harci,K17,T03,T02,E621,B09,E551
+kabartma tozu,E500,E450,K17
+sekerli vanilin,T02,K33
+maya yas,K27,T01,E491
+jole tozu,T02,H11,E330,E162,K05
+krem karamel,T02,K40,E407,E160a,K05
+kakao tozu islenmis,B01,E501
+pul biber yagli,B38,B28,T03
+isot,B39,T05,T03
+nane kuru,B40
+kekik,B41
+kimyon,B42
+karabiber,B43
+tarcin,B44
+zerdecal,B45
+zencefil toz,B46
+sumak,B47,T03
+corek otu,B48
+susam,B20
+hashas,B49
+hindistan cevizi,B50,E220
+galeta unu,T04,T01,T03,K27
+irmik,B23
+ince bulgur,B14
+pilavlik bulgur,B14
+kirmizi mercimek,B51
+yesil mercimek,B52
+nohut,B53
+kuru fasulye,B54,E223
+barbunya,B55
+pirinc,B56
+basmati pirinc,B56
+jasmin pirinc,B56
+siyah pirinc,B57
+kino,B58
+chia tohumu,B59
+keten tohumu,B60
+yulaf ezmesi,B61
+bugday,B14
+misir patlatmalik,B02
+kuru uzum,B62,T05
+kuru kayisi,B63,E220
+kuru incir,B64
+hurma,B65,K01
+ceviz,B66
+findik,B16
+badem,B22
+kaju,B67
+antep fistigi,B68,T03
+yer fistigi,B25,T05,T03
+kabak cekirdegi,B69,T04,T03,E171
+ay cekirdegi,B70,T03
+leblebi,B53
+soslu misir,B02,T05,E621,K41
+karisik kuruyemis luks,B16,B22,B67,B68
+kuru dut,B71
+yaban mersini kuru,B72,T02,B28
+kizilcik kuru,B73,T02,B28
+yumurta,H10
+bıldırcın yumurtasi,H20
+sut pastorize,H01
+kefir sade,H01,H21
+yogurt tam yagli,H01,H22
+suzme yogurt,H01,H16,H22
+ayran,T01,H08,T03
+tereyagi,H23
+kaymak,H24
+beyaz peynir,H01,H25,T03
+kasar peyniri,H01,T03,H25
+dil peyniri,H01,T03,H25
+lor peyniri,K15,T03
+tulum peyniri,H01,T03,H26
+labne dogal,H01,H16,T03
+krema %35,H23,E407
+zeytinyagi sizma,B74
+elma sirkesi dogal,B75
+uzum sirkesi dogal,B76
+su,T01
+soda,T08
+turk kahvesi,B77
+filtre kahve,B77
+espresso cekirdek,B77
+yesil cay,B78
+siyah cay,B79
+ihlamur,B80
+ada cayi,B81
+papatya cayi,B82
+kusburnu,B83
+bal,B84
+polen,B85
+ari sutu,H27
+pekmez uzum,B86
+pekmez dut,B87
+tahin,B20
+sogan,B17
+patates,B03
+sarimsak,B05
+domates,B08
+salatalik,B31
+biber carliston,B38
+biber kapya,B38
+patlican,B88
+kabak,B89
+taze fasulye,B90
+bezelye,B29
+ispanak,B91
+pirasa,B92
+kereviz,B93
+karnabahar,B94
+brokoli,B95
+beyaz lahana,B30
+kirmizi lahana,B30
+marul,B96
+maydanoz,B97
+dereotu,B98
+nane taze,B40
+roka,B99
+tere,B100
+kuzu kulagi,B101
+semizotu,B102
+havuc,B32
+turp,B103
+pancar,B104
+mantar kultur,B105
+istiridye mantari,B105
+elma golden,B106
+elma starking,B106
+elma granny smith,B106
+armut,B107
+ayva,B108
+portakal,B109
+mandalina,B110
+greyfurt,B111
+limon,B112
+muz,B113
+cilek,B114
+kiraz,B115
+visne,B116
+seftali,B117
+kayisi,B63
+erik,B118
+uzum,B62
+kavun,B119
+karpuz,B120
+incir,B64
+nar,B121
+kivi,B122
+ananas,B123
+avokado,B124
+mango,B125
+hindistan cevizi taze,B50
+zencefil taze,B46
+zerdecal taze,B45
+dana kiyma,H02
+dana kusbasi,H02
+biftek,H02
+kuzu pirzola,H28
+kuzu kusbasi,H28
+tavuk but,H05
+tavuk gogus,H05
+tavuk kanat,H05
+hindi but,H29
+somon,H30
+levrek,H31
+cipura,H32
+hamsi,H33
+uskumru,H34
+ton baligi taze,H19
+kalamar,H35
+karides,H36
+midye,H37
+sardalya,H38

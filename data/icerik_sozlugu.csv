@@ -1,0 +1,211 @@
+Kod,Icerik_Adi,Kategori,Risk_Puani
+T01,Su,Temel,0
+T02,Seker (Sofra),Temel,6
+T03,Tuz,Temel,4
+T04,Bugday Unu,Temel,2
+T05,Bitkisel Yag (Genel),Temel,5
+T06,Galeta Unu,Temel,3
+T07,Sirke,Temel,1
+T08,Dogal Mineralli Su,Temel,0
+K01,Glukoz/Fruktoz Surubu,Islenmis,9
+K02,Karbondioksit,Kimyasal,2
+K05,Aroma Verici (Yapay),Kimyasal,7
+K06,Kafein,Kimyasal,4
+K07,Taurin,Kimyasal,5
+K08,Inositol,Kimyasal,3
+K09,Vitaminler (Eklenmis),Katki,1
+K10,Cay Ekstrakti,Islenmis,2
+K11,Limon Konsantresi,Islenmis,3
+K12,Modifiye Nisasta,Islenmis,4
+K13,Hidrojene Bitkisel Yag,Islenmis,9
+K14,Palm Yagi,Islenmis,8
+K15,Peyniralti Suyu Tozu,Islenmis,3
+K16,Mekanik Ayrilmis Et,Islenmis,8
+K17,Nisasta (Misir/Bugday),Islenmis,3
+K18,Soya Proteini,Islenmis,4
+K19,Kizartma Yagi,Islenmis,7
+K20,Koruyucu (Genel),Kimyasal,6
+K21,Tutsü Aromasi,Kimyasal,6
+K22,Invert Seker Surubu,Islenmis,7
+K23,Sorbitol,Tatlandirici,3
+K24,Sakiz Mayasi,Kimyasal,5
+K25,Sut Tozu,Islenmis,3
+K26,Margarin,Islenmis,8
+K27,Ekmek Mayasi,Dogal Katki,1
+K28,Kek Hamuru,Islenmis,5
+K29,Kakao Sosu,Islenmis,6
+K30,Dekstroz,Islenmis,7
+K31,Bal Aroma Verici,Kimyasal,8
+K32,C Vitamini (Askorbik Asit),Katki,0
+K33,Vanilin,Kimyasal,3
+K34,Laktoz,Islenmis,3
+K35,Tursu Suyu,Islenmis,4
+K36,Bulgur Unu,Islenmis,2
+K37,Asetik Asit,Kimyasal,3
+K38,Limon Emulsiyonu,Kimyasal,5
+K39,Nar Aromasi,Kimyasal,7
+K40,Karamelize Seker,Islenmis,5
+K41,Baharat Karisimi (Endustriyel),Islenmis,4
+H01,Inek Sutu,Hayvansal,2
+H02,Dana Eti,Hayvansal,3
+H03,Dana Yagi,Hayvansal,5
+H04,Domuz Eti,Hayvansal,3
+H05,Pilic Eti,Hayvansal,2
+H06,Kiyma (Karisik),Hayvansal,4
+H07,Hayvansal Yag,Hayvansal,6
+H08,Yogurt,Hayvansal,1
+H09,Yumurta Sarisi,Hayvansal,3
+H10,Yumurta,Hayvansal,2
+H11,Sigir Jelatini,Hayvansal,4
+H12,Mozzarella,Hayvansal,5
+H13,Salam/Sosis Karisik,Hayvansal,8
+H14,Yumurta Aki,Hayvansal,1
+H15,Peynir (Genel),Hayvansal,4
+H16,Krema,Hayvansal,6
+H17,Sut Proteini,Hayvansal,2
+H18,Balik Yagi,Hayvansal,1
+H19,Ton Baligi,Hayvansal,2
+H20,Bildircin Yumurtasi,Hayvansal,2
+H21,Kefir Mayasi,Hayvansal,0
+H22,Yogurt Kulturu,Hayvansal,0
+H23,Tereyagi,Hayvansal,6
+H24,Kaymak,Hayvansal,7
+H25,Peynir Mayasi,Hayvansal,1
+H26,Sirdan Mayasi,Hayvansal,1
+H27,Ari Sutu,Hayvansal,0
+H28,Kuzu Eti,Hayvansal,4
+H29,Hindi Eti,Hayvansal,2
+H30,Somon,Hayvansal,2
+H31,Levrek,Hayvansal,1
+H32,Cipura,Hayvansal,1
+H33,Hamsi,Hayvansal,1
+H34,Uskumru,Hayvansal,2
+H35,Kalamar,Hayvansal,3
+H36,Karides,Hayvansal,3
+H37,Midye,Hayvansal,4
+H38,Sardalya,Hayvansal,1
+B01,Kakao,Bitkisel,2
+B02,Misir,Bitkisel,2
+B03,Patates,Bitkisel,2
+B04,Misir Irmigi,Bitkisel,3
+B05,Sarmisak,Bitkisel,0
+B06,Misir Unu,Bitkisel,2
+B07,Kirmizi Mercimek Unu,Bitkisel,1
+B08,Domates,Bitkisel,0
+B09,Kori,Bitkisel,1
+B10,Domates Puresi,Bitkisel,1
+B11,Salca,Bitkisel,1
+B12,Nar Suyu Konsantresi,Bitkisel,2
+B13,Soya Fasulyesi,Bitkisel,2
+B14,Bugday,Bitkisel,1
+B15,Kakao Yagi,Bitkisel,4
+B16,Findik,Bitkisel,1
+B17,Sogan,Bitkisel,0
+B18,Meyve Suyu,Bitkisel,2
+B19,Pirinc Unu,Bitkisel,2
+B20,Susam,Bitkisel,1
+B21,Pekmez,Bitkisel,3
+B22,Badem,Bitkisel,1
+B23,Irmik,Bitkisel,2
+B24,Meyve (Genel),Bitkisel,0
+B25,Yer Fistigi,Bitkisel,2
+B26,Elma Puresi,Bitkisel,1
+B27,Seftali Puresi,Bitkisel,1
+B28,Aycicek Yagi,Bitkisel,5
+B29,Bezelye,Bitkisel,1
+B30,Lahana,Bitkisel,0
+B31,Salatalik,Bitkisel,0
+B32,Havuc,Bitkisel,0
+B33,Mor Havuc,Bitkisel,0
+B34,Kanola Yagi,Bitkisel,5
+B35,Pamuk Yagi,Bitkisel,6
+B36,Kurutulmus Sebze,Bitkisel,1
+B37,Baharat (Genel),Bitkisel,0
+B38,Biber,Bitkisel,0
+B39,Kurutulmus Biber,Bitkisel,1
+B40,Nane,Bitkisel,0
+B41,Kekik,Bitkisel,0
+B42,Kimyon,Bitkisel,0
+B43,Karabiber,Bitkisel,0
+B44,Tarcin,Bitkisel,0
+B45,Zerdecal,Bitkisel,0
+B46,Zencefil,Bitkisel,0
+B47,Sumak,Bitkisel,0
+B48,Corek Otu,Bitkisel,0
+B49,Hashas,Bitkisel,1
+B50,Hindistan Cevizi,Bitkisel,2
+B51,Kirmizi Mercimek,Bitkisel,0
+B52,Yesil Mercimek,Bitkisel,0
+B53,Nohut,Bitkisel,0
+B54,Kuru Fasulye,Bitkisel,0
+B55,Barbunya,Bitkisel,0
+B56,Pirinc,Bitkisel,1
+B57,Siyah Pirinc,Bitkisel,0
+B58,Kinoa,Bitkisel,0
+B59,Chia Tohumu,Bitkisel,0
+B60,Keten Tohumu,Bitkisel,0
+B61,Yulaf,Bitkisel,0
+B62,Uzum,Bitkisel,1
+B63,Kayisi,Bitkisel,1
+B64,Incir,Bitkisel,1
+B65,Hurma,Bitkisel,2
+B66,Ceviz,Bitkisel,1
+B67,Kaju,Bitkisel,2
+B68,Antep Fistigi,Bitkisel,2
+B69,Kabak Cekirdegi,Bitkisel,2
+B70,Ay Cekirdegi,Bitkisel,2
+B71,Dut,Bitkisel,1
+B72,Yaban Mersini,Bitkisel,1
+B73,Kizilcik,Bitkisel,1
+B74,Zeytinyagi,Bitkisel,3
+B75,Elma Suyu,Bitkisel,2
+B76,Uzum Suyu,Bitkisel,2
+B77,Kahve Cekirdegi,Bitkisel,1
+B78,Yesil Cay,Bitkisel,0
+B79,Siyah Cay,Bitkisel,0
+B80,Ihlamur,Bitkisel,0
+B81,Ada Cayi,Bitkisel,0
+B82,Papatya,Bitkisel,0
+B83,Kusburnu,Bitkisel,0
+B84,Bal (Dogal),Hayvansal/Bitkisel,2
+B85,Polen,Bitkisel,0
+B86,Uzum Sirasi,Bitkisel,2
+B87,Dut Sirasi,Bitkisel,2
+B88,Patlican,Bitkisel,0
+B89,Kabak,Bitkisel,0
+B90,Taze Fasulye,Bitkisel,0
+B91,Ispanak,Bitkisel,0
+B92,Pirasa,Bitkisel,0
+B93,Kereviz,Bitkisel,0
+B94,Karnabahar,Bitkisel,0
+B95,Brokoli,Bitkisel,0
+B96,Marul,Bitkisel,0
+B97,Maydanoz,Bitkisel,0
+B98,Dereotu,Bitkisel,0
+B99,Roka,Bitkisel,0
+B100,Tere,Bitkisel,0
+B101,Kuzu Kulagi,Bitkisel,0
+B102,Semizotu,Bitkisel,0
+B103,Turp,Bitkisel,0
+B104,Pancar,Bitkisel,1
+B105,Mantar,Bitkisel,0
+B106,Elma,Bitkisel,1
+B107,Armut,Bitkisel,1
+B108,Ayva,Bitkisel,1
+B109,Portakal,Bitkisel,2
+B110,Mandalina,Bitkisel,2
+B111,Greyfurt,Bitkisel,2
+B112,Limon,Bitkisel,1
+B113,Muz,Bitkisel,2
+B114,Cilek,Bitkisel,1
+B115,Kiraz,Bitkisel,2
+B116,Visne,Bitkisel,1
+B117,Seftali,Bitkisel,2
+B118,Erik,Bitkisel,1
+B119,Kavun,Bitkisel,3
+B120,Karpuz,Bitkisel,3
+B121,Nar,Bitkisel,2
+B122,Kivi,Bitkisel,2
+B123,Ananas,Bitkisel,3
+B124,Avokado,Bitkisel,3
+B125,Mango,Bitkisel,3
